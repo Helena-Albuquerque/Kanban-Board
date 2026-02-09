@@ -58,7 +58,6 @@ h1 {
   opacity: 1;
 }
 
-}
 .card:active {
   cursor: grabbing;
   transform: scale(1.05);
